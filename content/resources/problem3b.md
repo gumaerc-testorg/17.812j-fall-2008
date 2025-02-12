@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Additional problem for Problem Set 3 on multi-party election games.
-file: /courses/17-812j-collective-choice-i-fall-2008/ccfd30095105f424193c5bcb2e77962e_problem3b.pdf
+file: /ol-ocw-studio-app/courses/17-812j-collective-choice-i-fall-2008/ccfd30095105f424193c5bcb2e77962e_problem3b.pdf
+file_size: 135027
 file_type: application/pdf
 learning_resource_types:
 - Assignments

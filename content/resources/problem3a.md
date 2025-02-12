@@ -2,7 +2,8 @@
 content_type: resource
 description: Additional problem for Problem Set 3 on the citizen-candidate model developed
   by Besley and Coate (1997).
-file: /courses/17-812j-collective-choice-i-fall-2008/967a394eea80bdab82b5a8962f17f936_problem3a.pdf
+file: /ol-ocw-studio-app/courses/17-812j-collective-choice-i-fall-2008/967a394eea80bdab82b5a8962f17f936_problem3a.pdf
+file_size: 98006
 file_type: application/pdf
 learning_resource_types:
 - Assignments

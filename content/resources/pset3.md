@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Problem set on the political economy of democratic countries.
-file: /courses/17-812j-collective-choice-i-fall-2008/96bef1ab03cfb173edc1b5809b9b4609_pset3.pdf
+file: /ol-ocw-studio-app/courses/17-812j-collective-choice-i-fall-2008/96bef1ab03cfb173edc1b5809b9b4609_pset3.pdf
+file_size: 88219
 file_type: application/pdf
 learning_resource_types:
 - Assignments
