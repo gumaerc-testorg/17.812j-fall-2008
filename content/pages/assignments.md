@@ -10,7 +10,7 @@ title: Assignments
 uid: f6d44623-883d-33d8-5a6e-8d3437770c0b
 ---
 
-Problem sets for the course consist largely of problems from the book, [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661317) Persson, Torsten and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317 (referred to as PT). Besides the problems from PT, some problem sets also include corrections or revisions of PT problems or additional problems.
+Problem sets for the course consist largely of problems from the book, {{% resource_link "c1fadc90-5744-4655-a939-7d37d6bdc84f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Persson, Torsten and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317 (referred to as PT). Besides the problems from PT, some problem sets also include corrections or revisions of PT problems or additional problems.
 
 {{< tableopen >}}
 {{< theadopen >}}

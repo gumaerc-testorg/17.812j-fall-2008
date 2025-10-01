@@ -60,7 +60,7 @@ Two topic reviews
 
 {{< tableclose >}}
 
-Problem sets are mostly taken from [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661317) Persson, Torsten, and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317, with the due dates indicated in the calendar below. The topic reviews consist of the following: selecting three articles on a particular topic in political economy (which could be any non-starred paper in the reading list, or any group of papers outside the reading list), explaining the main contributions of each article, and assessing what is learned about the topic from the articles and what questions remain unresolved. Each review should be no longer than 6 pages.
+Problem sets are mostly taken from {{% resource_link "c1fadc90-5744-4655-a939-7d37d6bdc84f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Persson, Torsten, and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317, with the due dates indicated in the calendar below. The topic reviews consist of the following: selecting three articles on a particular topic in political economy (which could be any non-starred paper in the reading list, or any group of papers outside the reading list), explaining the main contributions of each article, and assessing what is learned about the topic from the articles and what questions remain unresolved. Each review should be no longer than 6 pages.
 
 Calendar
 --------
